@@ -2,25 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac08cab7-5526-4e3f-b8d6-e3e3ce5b56be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/templates/pages/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/templates/pages/car-details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/templates/pages/cars.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/templates/pages/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/templates/pages/dashboard.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/templates/pages/includes/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/templates/pages/includes/navbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/templates/pages/includes/topbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/templates/pages/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/templates/pages/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/templates/pages/search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/templates/pages/services.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/templates/pages/signup.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carzone/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/carzone/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/templates/pages/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/templates/pages/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/templates/pages/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/templates/pages/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/templates/pages/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/templates/pages/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/templates/pages/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/templates/pages/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/templates/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/templates/pages/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/templates/pages/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/templates/pages/services.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,18 +93,34 @@
       <workItem from="1733684110332" duration="200000" />
       <workItem from="1733747937054" duration="11358000" />
       <workItem from="1733764914520" duration="3940000" />
-      <workItem from="1733830405277" duration="3427000" />
+      <workItem from="1733830405277" duration="6933000" />
     </task>
+    <task id="LOCAL-00001" summary="this is the third commit after editing templates.">
+      <created>1733839810039</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733839810039</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="this is the third commit after editing templates." />
+    <option name="LAST_COMMIT_MESSAGE" value="this is the third commit after editing templates." />
   </component>
   <component name="WindowStateProjectService">
     <state x="1758" y="107" key="#Notifications" timestamp="1733830483331">
       <screen x="1366" y="0" width="1600" height="900" />
     </state>
     <state x="1758" y="107" key="#Notifications/0.0.1366.738/1366.0.1600.900@1366.0.1600.900" timestamp="1733830483331" />
+    <state x="1791" y="39" key="CommitChangelistDialog2" timestamp="1733839807217">
+      <screen x="1366" y="0" width="1600" height="900" />
+    </state>
+    <state x="1791" y="39" key="CommitChangelistDialog2/0.0.1366.738/1366.0.1600.900@1366.0.1600.900" timestamp="1733839807217" />
     <state x="1946" y="204" key="FileChooserDialogImpl" timestamp="1733727568076">
       <screen x="1366" y="0" width="1600" height="900" />
     </state>

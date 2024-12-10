@@ -3,7 +3,8 @@
 <html>
 
 <head>
-    <title></title>
+    <title>{% block head_title %}    HOME    {% endblock %}</title>
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
 
@@ -45,7 +46,7 @@
 {% include 'pages/includes/topbar.html' %}
 {% include 'pages/includes/navbar.html' %}
 
-{% block content %} {% endblock %}
+{% block body_content %} {% endblock %}
 
 {% include 'pages/includes/footer.html' %}
 
@@ -132,9 +133,7 @@
     </div>
 </div>
 
-
-
-
+<!-- Scripts -->
 <script src="{% static 'js/jquery-2.2.0.min.js' %}"></script>
 <script src="{% static 'js/popper.min.js' %}"></script>
 <script src="{% static 'js/bootstrap.min.js' %}"></script>
@@ -155,11 +154,13 @@
 <script  src="{% static 'js/jnoty.js' %}"></script>
 <script  src="{% static 'js/app.js' %}"></script>
 
-
+{% block scripts_custom %}
 <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
 <script  src="{% static 'js/ie10-viewport-bug-workaround.js' %}"></script>
 <!-- Custom javascript -->
 <script  src="{% static 'js/ie10-viewport-bug-workaround.js' %}"></script>
+
+{% endblock %}
 
 </body>
 
