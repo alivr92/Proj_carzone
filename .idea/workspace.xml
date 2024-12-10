@@ -2,8 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac08cab7-5526-4e3f-b8d6-e3e3ce5b56be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/templates/pages/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/templates/pages/car-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/templates/pages/cars.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/templates/pages/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/templates/pages/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/templates/pages/includes/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/templates/pages/includes/navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/templates/pages/includes/topbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/templates/pages/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/templates/pages/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/templates/pages/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/templates/pages/services.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/templates/pages/signup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carzone/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/carzone/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/templates/pages/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/templates/pages/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,17 +42,31 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2pwjc3DDFpuZbiT015xoS3J8FRE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Proj_Admin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pages/templates/pages" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\dev\workspace\web\Django_Practices\Proj_carzone\pages\templates\pages" />
+      <recent name="F:\dev\workspace\web\Django_Practices\Proj_carzone\pages\static\pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\dev\workspace\web\Django_Practices\Proj_carzone\pages\static" />
+      <recent name="F:\dev\workspace\web\Django_Practices\Proj_carzone\static" />
+      <recent name="F:\dev\workspace\web\Django_Practices\Proj_carzone" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Proj_carzone" type="Python.DjangoServer" factoryName="Django server">
@@ -73,7 +104,9 @@
       <option name="presentableId" value="Default" />
       <updated>1733684107818</updated>
       <workItem from="1733684110332" duration="200000" />
-      <workItem from="1733747937054" duration="4370000" />
+      <workItem from="1733747937054" duration="11358000" />
+      <workItem from="1733764914520" duration="3940000" />
+      <workItem from="1733830405277" duration="3427000" />
     </task>
     <servers />
   </component>
@@ -81,9 +114,17 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1758" y="107" key="#Notifications" timestamp="1733830483331">
+      <screen x="1366" y="0" width="1600" height="900" />
+    </state>
+    <state x="1758" y="107" key="#Notifications/0.0.1366.738/1366.0.1600.900@1366.0.1600.900" timestamp="1733830483331" />
     <state x="1946" y="204" key="FileChooserDialogImpl" timestamp="1733727568076">
       <screen x="1366" y="0" width="1600" height="900" />
     </state>
     <state x="1946" y="204" key="FileChooserDialogImpl/0.0.1366.738/1366.0.1600.900@1366.0.1600.900" timestamp="1733727568076" />
+    <state x="1861" y="272" width="709" height="432" key="com.intellij.ide.util.TipDialog" timestamp="1733830454648">
+      <screen x="1366" y="0" width="1600" height="900" />
+    </state>
+    <state x="1861" y="272" width="709" height="432" key="com.intellij.ide.util.TipDialog/0.0.1366.738/1366.0.1600.900@1366.0.1600.900" timestamp="1733830454648" />
   </component>
 </project>
