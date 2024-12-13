@@ -33,14 +33,15 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    # 'pages.apps.AppConfig'
+    # 'app_pages.apps.AppConfig'
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'pages',
+    'app_pages',
+    'app_cars',
 ]
 
 MIDDLEWARE = [
@@ -136,7 +137,7 @@ STATIC_URL = '/static/'
 # STATIC_ROOT = BASE_DIR / "staticfiles"
 
 
-STATICFILES_DIRS = [os.path.join(BASE_DIR, "pages/static")]
+STATICFILES_DIRS = [os.path.join(BASE_DIR, "static")]
 STATIC_ROOT = os.path.join(BASE_DIR, "staticfiles")
 
 MEDIA_URL = '/media/'
